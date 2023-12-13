@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ashitosh Takale
-- 👀 I’m interested in Data Science & Analytics 
-- 🌱 I’m currently learning Data Science & Analytics Programm from UpGrad
+- 👀 I’m interested in Data Science & Analytics
+- 🎓 Im B.tech Graduate
+- 🌱 I completed Data Science & Analytics Programm from UpGrad Campus
 - 📫 How to reach me takaleashitosh911@gmail.com
 
 <!---
